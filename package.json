@@ -107,6 +107,7 @@
   "repository": "https://github.com/5afe/safe-client-gateway-nest.git",
   "packageManager": "yarn@4.1.1",
   "resolutions": {
+    "@safe-global/safe-deployments@^1.36.0": "patch:@safe-global/safe-deployments@npm%3A1.36.0#~/.yarn/patches/@safe-global-safe-deployments-npm-1.36.0-59d1d00e34.patch",
     "postgres-shift@^0.1.0": "patch:postgres-shift@npm%3A0.1.0#./.yarn/patches/postgres-shift-npm-0.1.0-9342b5f6f6.patch"
   }
 }
